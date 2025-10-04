@@ -97,4 +97,4 @@ Upload `outputs/submissions/titanic_submission.csv` on the competition page (Sub
 - If Python can’t import `src/`, run scripts with `python -m scripts.<name>` from repo root or `pip install -e .`.
 
 ## License
-MIT — feel free to use and adapt.
+feel free to use and adapt.
